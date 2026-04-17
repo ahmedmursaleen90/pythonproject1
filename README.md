@@ -1,5 +1,5 @@
 # pythonproject1
-this is my first internship project
+this is my first internship project at Decode labs
 my_task =[]
 
 while True:
